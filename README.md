@@ -1,5 +1,6 @@
 # Foodie Blog
-Description:
+
+## Description:
 Foodie Blog is a stylish and user-friendly web application dedicated to food lovers. Built with HTML, CSS, and JavaScript, this project showcases delicious recipes, food articles, and interactive content that engages users. The design emphasizes readability and aesthetic appeal, ensuring an enjoyable experience for food enthusiasts browsing recipes, reviews, and cooking tips.
 
 Features:
