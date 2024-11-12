@@ -11,3 +11,6 @@ Responsive design for optimal viewing on various devices
 
 ## Technologies Used:
 HTML, CSS, and JavaScript
+
+## Site is live at 
+https://sahilgole1201.github.io/Foodie_Blog/
